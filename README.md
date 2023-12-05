@@ -20,7 +20,7 @@
 <li>THEN the password is either displayed in an alert or written to the page</li>
 
 
-<h2>![Uploading Scree[Uploading script.js…]()nshot (4).png…]()</h2>
+<h2>C:\Users\15138\Documents\module-3-passwordgen\Screenshot (4).png</h2>
 
 <h3>
   <li>Repo Link: </li>
