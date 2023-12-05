@@ -19,7 +19,7 @@
 <li>THEN the password is either displayed in an alert or written to the page</li>
 
 
-<h2>![Screenshot (4)](https://github.com/mikaylaakelly/module-3-passwordgen/assets/149916992/84abd4f6-a3ec-483e-982d-53b102d7f98d)</h2>
+<h2>![]images/Screeshot(4)</h2>
 
 <h3>
   <li>Repo Link: </li>
