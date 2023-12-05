@@ -19,7 +19,7 @@
 <li>THEN the password is either displayed in an alert or written to the page</li>
 
 
-<h2>![]images/Screeshot%(4).png</h2>
+<h2>C:\Users\15138\OneDrive\Documents\GitHub\module-one-challenge\module-3-passwordgen\imgs\Screenshot (4).png</h2>
 
 <h3>
   <li>Repo Link: </li>
