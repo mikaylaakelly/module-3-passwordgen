@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+![Screenshot (4)](https://github.com/mikaylaakelly/module-3-passwordgen/assets/149916992/9cebcf6c-4bb3-43bd-b029-48006e0c5f4f)# Password Generator Starter Code
 
 <h1>Acceptance Criteria</h1>
 
@@ -16,10 +16,11 @@
 <li>WHEN all prompts are answered</li>
 <li>THEN a password is generated that matches the selected criteria</li>
 <li>WHEN the password is generated</li>
+
 <li>THEN the password is either displayed in an alert or written to the page</li>
 
 
-<h2>C:\Users\15138\OneDrive\Documents\GitHub\module-one-challenge\module-3-passwordgen\imgs\Screenshot (4).png</h2>
+<h2>![Uploading Scree[Uploading script.js…]()nshot (4).png…]()</h2>
 
 <h3>
   <li>Repo Link: </li>
