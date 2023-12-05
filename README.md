@@ -23,6 +23,6 @@
 
 
 <h3>
-  <li>Repo Link: </li>
-<li>Deployed Link: </li>
-<li>Source Code: </li></h3>
+  <li>Repo Link: https://github.com/mikaylaakelly/module-3-passwordgen </li>
+<li>Deployed Link: https://mikaylaakelly.github.io/module-3-passwordgen/ </li>
+<li>Source Code:https://github.com/coding-boot-camp/friendly-parakeet </li></h3>
